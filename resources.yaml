@@ -5,4 +5,4 @@ poc-rundeck-client:
   description: EC2 node for testing SSH from Rundeck
   tags: ec2,linux
   osFamily: unix
-  ssh-keypath: keys/project/project/pod-rundeck-keypair.pem
+  ssh-keypath: /home/rundeck/.ssh/pod-rundeck-keypair.pem
