@@ -1,8 +1,9 @@
 poc-rundeck-client:
   nodename: poc-rundeck-client
-  hostname: 54.173.50.75
+  hostname: 44.211.227.43
   username: ubuntu
   description: EC2 node for testing SSH from Rundeck
   tags: ec2,linux
   osFamily: unix
   ssh-keypath: /home/rundeck/.ssh/pod-rundeck-keypair.pem
+  
